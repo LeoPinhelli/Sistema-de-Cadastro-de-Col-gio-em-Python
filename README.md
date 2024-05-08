@@ -1,4 +1,6 @@
-# Sistema-de-Cadastro-de-Col-gio-em-Python
-Sistema de Cadastro de Estudantes,Professores,Disciplina,Turma e Matricula.
+# Sistema-de-Gerenciamento Escolar-em-Python
+Sistema de Gerenciamento Escolar criada durante o curso de Análise e Desenvolvimento de Sistemas na PUCPR.
 
-Criada durante o curso de Análise e Desenvolvimento de Sistemas na PUCPR.
+Site contém as funcionalidades de Cadastrar,Listar,Atualizar e Excluir as váriaveis Estudante,Professor,Disciplina,Turma e Matrícula.
+
+
